@@ -1,0 +1,18 @@
+{
+	"name": "pls-server-scripts",
+	"description": "Scripts directory",
+	"version": "1.0.0",
+	"author": "Patrick Borgeest",
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Fepelus/pony-language-server"
+	},
+	"dependencies": {
+		"node-wget": "^0.4.2"
+	},
+	"scripts": {}
+}
