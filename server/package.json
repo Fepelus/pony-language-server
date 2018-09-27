@@ -19,7 +19,6 @@
 		"antlr4ts-cli": "0.4.0-alpha.4"
 	},
 	"scripts": {
-		"postinstall": "cd scripts && npm install",
 		"fetch-ponyg4": "node scripts/fetch-ponyg4.js src/parser/pony.g4",
 		"generate-antlr": "antlr4ts src/parser/pony.g4"
 	}

@@ -397,7 +397,6 @@ Type:
 3. ,
 */
 
-//  Because I want a listener rule for the ID
 identifier
  : ID
  ;
